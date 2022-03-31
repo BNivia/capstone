@@ -8,4 +8,4 @@ _Lets Go!_
 
 First run `npm install`. This is assuming you already have [node.js](https://nodejs.org/en/) installed. If you don't start there - click the embedded link to get there.
 
-Okay, next...
+Okay, next...we
